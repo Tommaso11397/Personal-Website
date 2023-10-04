@@ -1,0 +1,32 @@
+---
+about:
+  
+  template: trestles
+  id: about-block
+  image: "img/my_image.jpeg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/TommasoCrosta
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tommaso-crosta-31873817b/
+    - icon: envelope
+      text: Email
+      href: "mailto:tommaso.crosta@phd.unibocconi.it"  
+---
+
+
+# About me 
+
+<body style="font-family: 'Calibri', sans-serif;">
+
+I am a first-year PhD student in Economics at Bocconi University. 
+
+I am interested in development economics and causal inference, especially Bayesian methods and Machine Learning. 
+
+Prior to joining Bocconi, I worked at the Global Poverty Research Lab at Northwestern University and obtained my MsC and Bachelor in Economics and Social Sciences at Bocconi University. 
+
+</body>
+
+
