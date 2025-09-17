@@ -21,9 +21,9 @@ about:
 
 <body style="font-family: 'Calibri', sans-serif;">
 
-I am a first-year PhD student in Economics at Bocconi University. 
+I am a third-year PhD student in Economics at Bocconi University. 
 
-I am interested in development economics and causal inference, especially Bayesian methods and Machine Learning. 
+My main research interests are the intersection of Development and Labour Economics. I am also interested in applications of Bayesian statistics to applied micro economics and meta analysis. 
 
 Prior to joining Bocconi, I worked at the Global Poverty Research Lab at Northwestern University and obtained my MsC and Bachelor in Economics and Social Sciences at Bocconi University. 
 
