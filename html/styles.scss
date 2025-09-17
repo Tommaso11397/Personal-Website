@@ -146,3 +146,16 @@ $btn-code-copy-color-active: $orange !default;
         }
     }
 }
+
+/* --- FIX: show list text that themes sometimes hide --- */
+li > p { 
+  display: inline !important;   /* undo display:none on li > p */
+  margin: 0 !important;
+}
+li { 
+  font-size: inherit !important; 
+  color: inherit !important;    /* undo color: transparent or similar */
+}
+ul, ol { 
+  list-style-position: outside; 
+}
