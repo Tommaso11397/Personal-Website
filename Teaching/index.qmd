@@ -9,20 +9,14 @@ format:
 
 - **Economics Courses — Bocconi University**
 
-  - Microeconomics *(Undergraduate level)*
-  - Econometrics *(Graduate level)*
+    - Microeconomics *(Undergraduate level)*
+    - Microeconomic *(PhD level)*
 
 ## Guest Lectures
 
 - **IGC Research Methodology Workshop — August 2025**
 
-  - *“Beyond Regression: Advanced Tools for Causal Inference”*
-  - Presented advanced econometric methods including instrumental variables, regression discontinuity, and difference-in-differences to early-career researchers.
+    - *“Beyond Regression: Advanced Tools for Causal Inference”*
 
-## Other Teaching Experience
 
-- **Research Methods Workshops — Various institutions**
-
-  - Bayesian econometrics for development economics
-  - Machine learning applications in causal inference
 
