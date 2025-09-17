@@ -1,27 +1,33 @@
 ---
-title: "Teaching"
+title: "Teaching (Inline CSS Fix)"
 format:
   html:
     toc: false
 ---
 
+<style>
+ul, ol { list-style-position: outside; margin-left: 1.2rem; }
+li { display: list-item !important; color: #111 !important; font-size: 1rem !important; }
+strong, em { color: inherit !important; }
+</style>
+
 ## Teaching Assistant
 
-**Economics Courses — Bocconi University**
+**Economics Courses - Bocconi University**
 
-- Microeconomics *(Undergraduate level)*
-- Econometrics *(Graduate level)*
+- Microeconomics (Undergraduate level)
+- Econometrics (Graduate level)
 
 ## Guest Lectures
 
-**IGC Research Methodology Workshop — August 2025**
+**IGC Research Methodology Workshop - August 2025**
 
-- *“Beyond Regression: Advanced Tools for Causal Inference”*
+- "Beyond Regression: Advanced Tools for Causal Inference"
 - Presented advanced econometric methods including instrumental variables, regression discontinuity, and difference-in-differences to early-career researchers.
 
 ## Other Teaching Experience
 
-**Research Methods Workshops — Various institutions**
+**Research Methods Workshops - Various institutions**
 
 - Bayesian econometrics for development economics
 - Machine learning applications in causal inference
