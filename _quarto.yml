@@ -2,8 +2,8 @@
 
 # website settings
 website:
-  title: "Belén Hípola" 
- # description: "Belén Hípola"  # A brief slogan (optional)
+  title: "Tommaso Crosta" 
+ # description: "Tommaso Crosta"  # A brief slogan (optional)
   image: img/my_image2.jpg
   
   favicon: img/favicon.png
