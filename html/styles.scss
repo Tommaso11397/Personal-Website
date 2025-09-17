@@ -147,15 +147,15 @@ $btn-code-copy-color-active: $orange !default;
     }
 }
 
-/* --- FIX: show list text that themes sometimes hide --- */
-li > p { 
-  display: inline !important;   /* undo display:none on li > p */
-  margin: 0 !important;
-}
+/* --- FIX: ensure list content is visible --- */
 li { 
-  font-size: inherit !important; 
-  color: inherit !important;    /* undo color: transparent or similar */
+  display: list-item; 
+  font-size: 1rem; 
+  color: inherit; 
+  text-indent: 0; 
 }
-ul, ol { 
-  list-style-position: outside; 
+li > p { 
+  display: inline; 
+  margin: 0; 
 }
+

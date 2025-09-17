@@ -2,24 +2,36 @@
 title: "Teaching"
 format:
   html:
-    theme: cosmo   # temporarily bypasses your custom styles
+    theme: cosmo
     toc: false
 ---
 
-## Teaching Assistant
-**Economics Courses — Bocconi University**
-- Microeconomics *(Undergraduate level)*
-- Econometrics *(Graduate level)*
+<!-- STRONG OVERRIDE: makes list text visible even if site CSS hides it -->
+<style>
+/* Reset all problematic list overrides from themes */
+ul, ol { list-style-position: outside !important; margin-left: 1.25rem !important; padding-left: 0 !important; }
+li { display: list-item !important; color: #111 !important; font-size: 1rem !important; line-height: 1.5 !important; text-indent: 0 !important; visibility: visible !important; opacity: 1 !important; }
+li * { color: inherit !important; font-size: inherit !important; visibility: inherit !important; opacity: 1 !important; display: inline !important; }
+strong, em { color: inherit !important; }
+</style>
 
-## Guest Lectures
-**IGC Research Methodology Workshop — August 2025**
-- *“Beyond Regression: Advanced Tools for Causal Inference”*
-- Presented advanced econometric methods including instrumental variables, regression discontinuity, and difference-in-differences to early-career researchers.
+<h2>Teaching Assistant</h2>
+<p><strong>Economics Courses - Bocconi University</strong></p>
+<ul>
+  <li>Microeconomics (Undergraduate level)</li>
+  <li>Econometrics (Graduate level)</li>
+</ul>
 
-## Other Teaching Experience
-**Research Methods Workshops — Various institutions**
-- Bayesian econometrics for development economics
-- Machine learning applications in causal inference
+<h2>Guest Lectures</h2>
+<p><strong>IGC Research Methodology Workshop - August 2025</strong></p>
+<ul>
+  <li><em>"Beyond Regression: Advanced Tools for Causal Inference"</em></li>
+  <li>Presented advanced econometric methods including instrumental variables, regression discontinuity, and difference-in-differences to early-career researchers.</li>
+</ul>
 
-
-
+<h2>Other Teaching Experience</h2>
+<p><strong>Research Methods Workshops - Various institutions</strong></p>
+<ul>
+  <li>Bayesian econometrics for development economics</li>
+  <li>Machine learning applications in causal inference</li>
+</ul>
