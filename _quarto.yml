@@ -4,7 +4,7 @@
 website:
   title: "Tommaso Crosta" 
  # description: "Tommaso Crosta"  # A brief slogan (optional)
-  image: img/my_image2.jpg
+  image: img/my_image.jpg
   
   favicon: img/favicon.png
   
@@ -27,12 +27,12 @@ website:
      # - icon: folder-symlink
     #    href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
       - icon: twitter
-        href: https://twitter.com/belendfn
+        href: https://x.com/TommasoCrosta
       - icon: linkedin
-        href: https://www.linkedin.com/in/belenhipola/
+        href: https://www.linkedin.com/in/tommaso-crosta-31873817b/
       - icon: envelope
         aria-label: email
-        href: "mailto:bhipola@gmail.com"  
+        href: "mailto:tommaso.crosta@phd.unibocconi.it"  
   
   
 
