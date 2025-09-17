@@ -7,6 +7,20 @@
     "text": "Economics Courses — Bocconi University\n\nMicroeconomics (Undergraduate level) (2024 and 2025)\nMicroeconomics III (PhD level)"
   },
   {
+    "objectID": "Teaching/index.html#teaching-assistant",
+    "href": "Teaching/index.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "",
+    "text": "Economics Courses — Bocconi University\n\nMicroeconomics (Undergraduate level) (2024 and 2025)\nMicroeconomics III (PhD level)"
+  },
+  {
+    "objectID": "Teaching/index.html#guest-lectures",
+    "href": "Teaching/index.html#guest-lectures",
+    "title": "Teaching",
+    "section": "Guest Lectures",
+    "text": "Guest Lectures\nIGC Research Methodology Workshop — August 2025\n\n“Beyond Regression: Advanced Tools for Causal Inference”"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About me",
@@ -33,19 +47,5 @@
     "title": "Work In Progress",
     "section": "",
     "text": "Union Delegates Incentives and Firm-level Outcomes\n(with Francesco Armillei)\nWe study how the electoral accountability for workplace union representatives affects firm-level employment outcomes. We focus on a 2008 reform in France that tied union legitimacy to vote shares and approval thresholds, using administrative data on firm-level employment and collective agreements, and exploiting for causal identification the staggered roll-out of the policy determined by firms’ pre-determined election schedule. We find that workers’ annual earnings increase following the first post-reform election. These gains are driven primarily by longer hours worked rather than higher hourly wages, and are concentrated among workers in the lower quintiles of the within-firm earnings distribution. We document a decline in within-firm earnings skewness and a modest rise in dispersion, which we interpret as a reduction in firm-level wage inequality. We further show that bargaining content shifts toward monetary instruments. Taken together, the results indicate that electoral accountability—not only union presence per se—plays a central role in shaping the distributive effects of workplace representation.\n\nSlides\n\n\n\n\nUnconditional Cash Transfers: A Bayesian Meta-Analysis of 50 Randomized Evaluations in 26 Low- and Middle-Income Countries\nWe use Bayesian meta-analysis methods to estimate the impact of unconditional cash transfers (UCTs). Aggregating evidence from 115 studies of 72 UCT programs in middle and low income countries, we find strong and positive average treatment effects on ten of thirteen outcomes: monthly household total and food consumption, monthly income, labor supply, school enrollment, food security, psychological well-being, total assets, financial assets, and children height-for-age. We examine seven specific theoretical and policy hypotheses, such as presence of savings frictions, dynamic effects, curvature of marginal returns, targeting effects, “nudge” effects, labor supply elasticity and related “dependency” theories, and contextual heterogeneity.\n\nLatest draft\nSlides\nPress: Ideas for India · VoxDev"
-  },
-  {
-    "objectID": "Teaching/index.html#teaching-assistant",
-    "href": "Teaching/index.html#teaching-assistant",
-    "title": "Teaching",
-    "section": "",
-    "text": "Economics Courses — Bocconi University\n\nMicroeconomics (Undergraduate level) (2024 and 2025)\nMicroeconomics III (PhD level)"
-  },
-  {
-    "objectID": "Teaching/index.html#guest-lectures",
-    "href": "Teaching/index.html#guest-lectures",
-    "title": "Teaching",
-    "section": "Guest Lectures",
-    "text": "Guest Lectures\nIGC Research Methodology Workshop — August 2025\n\n“Beyond Regression: Advanced Tools for Causal Inference”"
   }
 ]
