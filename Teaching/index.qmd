@@ -6,17 +6,40 @@ format:
 ---
 
 ## Teaching Assistant
-
-- **Economics Courses — Bocconi University**
-
-    - Microeconomics *(Undergraduate level)*
-    - Microeconomic *(PhD level)*
+::: {=html}
+<ul>
+  <li><strong>Economics Courses — Bocconi University</strong>
+    <ul>
+      <li>Microeconomics (Undergraduate level)</li>
+      <li>Econometrics (Graduate level)</li>
+    </ul>
+  </li>
+</ul>
+:::
 
 ## Guest Lectures
+::: {=html}
+<ul>
+  <li><strong>IGC Research Methodology Workshop — August 2025</strong>
+    <ul>
+      <li><em>“Beyond Regression: Advanced Tools for Causal Inference”</em></li>
+      <li>Presented advanced econometric methods including instrumental variables, regression discontinuity, and difference-in-differences to early-career researchers</li>
+    </ul>
+  </li>
+</ul>
+:::
 
-- **IGC Research Methodology Workshop — August 2025**
-
-    - *“Beyond Regression: Advanced Tools for Causal Inference”*
+## Other Teaching Experience
+::: {=html}
+<ul>
+  <li><strong>Research Methods Workshops — Various institutions</strong>
+    <ul>
+      <li>Bayesian econometrics for development economics</li>
+      <li>Machine learning applications in causal inference</li>
+    </ul>
+  </li>
+</ul>
+:::
 
 
 
