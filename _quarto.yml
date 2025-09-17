@@ -2,14 +2,10 @@
 
 # website settings
 website:
-  title: "Tommaso Crosta" 
- # description: "Tommaso Crosta"  # A brief slogan (optional)
-  image: img/my_image.jpg
+  title: "Tommaso Crosta"
   
-  favicon: img/favicon.png
-  
-  # start of the navigation bar at the top of the website
   navbar:
+    title: "Tommaso Crosta"
     pinned: true
     #logo: /img/logo.png
     
