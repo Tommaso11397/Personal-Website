@@ -1,5 +1,0 @@
-## Curriculum Vitae
-
-[Download PDF](CV-Tommaso Crosta.pdf)
-
-<iframe src="CV-Tommaso Crosta.pdf" width="100%" height="500px"></iframe>
