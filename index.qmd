@@ -43,7 +43,7 @@ A study of how the electoral accountability of workplace union representatives a
 
 ::: {.paper-entry}
 ### Unconditional Cash Transfers: A Bayesian Meta-Analysis of 50 Randomized Evaluations in 26 Low- and Middle-Income Countries
-<span class="paper-meta">Working paper</span>
+<span class="paper-meta">with Dean Karlan, Finley Ong, Julius Ruschenpohler, and Christopher Udry | Working paper</span>
 
 A Bayesian meta-analysis of unconditional cash transfer programs that evaluates average impacts and tests key policy mechanisms across settings.
 
