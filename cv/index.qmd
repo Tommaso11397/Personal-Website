@@ -1,5 +1,23 @@
-## Curriculum Vitae
+---
+title: "Curriculum Vitae"
+title-block: false
+---
 
-[Download PDF](CV-Tommaso Crosta.pdf)
+# Curriculum Vitae
 
-<iframe src="CV-Tommaso Crosta.pdf" width="100%" height="500px"></iframe>
+::: {.page-intro}
+A current copy of my CV is available below. The PDF download is the best option for mobile browsers and for sharing a direct copy.
+:::
+
+::: {.cv-actions}
+[Download CV (PDF)](CV-Tommaso Crosta.pdf){.btn .btn-brand}
+[Email](mailto:tommaso.crosta@phd.unibocconi.it){.btn .btn-ghost}
+:::
+
+::: {.note-panel .cv-note}
+If the embedded viewer does not load in your browser, use the PDF download above.
+:::
+
+<div class="cv-frame-wrapper">
+  <iframe src="CV-Tommaso Crosta.pdf" title="Curriculum Vitae of Tommaso Crosta" class="cv-frame"></iframe>
+</div>

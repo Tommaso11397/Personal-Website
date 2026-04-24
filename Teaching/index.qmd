@@ -1,16 +1,39 @@
 ---
 title: "Teaching"
+title-block: false
 ---
 
-## Teaching Assistant
+# Teaching
 
-**Economics Courses — Bocconi University**
+::: {.page-intro}
+I enjoy supporting rigorous training in microeconomics and contributing to methods-oriented instruction for students at different stages of study.
+:::
 
-- Microeconomics *(Undergraduate level)* (2024 and 2025)
-- Microeconomics III *(PhD level)*
+## Teaching Assistantship
+
+::: {.timeline-stack}
+::: {.paper-entry}
+### Microeconomics
+<span class="paper-meta">Bocconi University | Undergraduate level | Teaching Assistant | 2024 and 2025</span>
+
+Teaching support for core undergraduate microeconomics.
+:::
+
+::: {.paper-entry}
+### Microeconomics III
+<span class="paper-meta">Bocconi University | PhD level | Teaching Assistant</span>
+
+Teaching support for doctoral-level microeconomics training.
+:::
+:::
 
 ## Guest Lectures
 
-**IGC Research Methodology Workshop — August 2025**
+::: {.timeline-stack}
+::: {.paper-entry}
+### Beyond Regression: Advanced Tools for Causal Inference
+<span class="paper-meta">IGC Research Methodology Workshop | August 2025</span>
 
-- *“Beyond Regression: Advanced Tools for Causal Inference”*
+Guest lecture on advanced approaches to causal inference.
+:::
+:::

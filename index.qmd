@@ -1,32 +1,149 @@
 ---
-about:
-  
-  template: trestles
-  id: about-block
-  image: "img/my_image.jpeg"
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/TommasoCrosta
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/tommaso-crosta-31873817b/
-    - icon: envelope
-      text: Email
-      href: "mailto:tommaso.crosta@phd.unibocconi.it"  
+title: "Home"
+title-block: false
+page-layout: full
 ---
 
+::: {.hero-grid}
+::: {.hero-copy}
+<span class="eyebrow">Economics PhD Candidate</span>
 
-# About me 
+# Tommaso Crosta
 
-<body style="font-family: 'Calibri', sans-serif;">
+I am a third-year PhD student in Economics at Bocconi University. My research sits at the intersection of development and labour economics, with a focus on how institutions and social protection shape labour market outcomes.
 
-I am a third-year PhD student in Economics at Bocconi University. 
+I also work with Bayesian methods in applied microeconomics and meta-analysis, building on previous research experience at Bocconi University and the Global Poverty Research Lab at Northwestern University.
 
-My main research interests are the intersection of Development and Labour Economics. I am also interested in applications of Bayesian statistics to applied micro economics and meta analysis. 
+::: {.hero-actions}
+[Research](Research/index.qmd){.btn .btn-brand}
+[Download CV](cv/CV-Tommaso Crosta.pdf){.btn .btn-ghost}
+[Email](mailto:tommaso.crosta@phd.unibocconi.it){.btn .btn-ghost}
+:::
+:::
 
-Prior to joining Bocconi, I worked at the Global Poverty Research Lab at Northwestern University and obtained my MsC and Bachelor in Economics and Social Sciences at Bocconi University. 
+::: {.hero-portrait}
+![](img/my_image.jpeg){.portrait-image alt="Portrait of Tommaso Crosta"}
+:::
+:::
 
-</body>
+::: {.content-section}
+## Selected Work
 
+A snapshot of current research on workplace institutions, social protection, and evidence synthesis.
 
+::: {.paper-grid}
+::: {.paper-entry .featured-paper}
+### Union Delegates Incentives and Firm-level Outcomes
+<span class="paper-meta">with Francesco Armillei | Working paper</span>
+
+A study of how the electoral accountability of workplace union representatives affects employment outcomes, bargaining content, and within-firm inequality.
+
+::: {.link-row}
+[Working papers](Research/index.qmd#working-papers){.paper-link}
+:::
+:::
+
+::: {.paper-entry}
+### Unconditional Cash Transfers: A Bayesian Meta-Analysis of 50 Randomized Evaluations in 26 Low- and Middle-Income Countries
+<span class="paper-meta">Working paper</span>
+
+A Bayesian meta-analysis of unconditional cash transfer programs that evaluates average impacts and tests key policy mechanisms across settings.
+
+::: {.link-row}
+[Press coverage](Research/index.qmd#talks-press){.paper-link}
+:::
+:::
+:::
+:::
+
+::: {.content-section}
+## Research Themes
+
+::: {.theme-grid}
+::: {.theme-card}
+### Development Economics
+
+Social protection, household welfare, and the design of policies that shape economic opportunity in low- and middle-income countries.
+:::
+
+::: {.theme-card}
+### Labour Economics
+
+Institutions, workplace representation, and the ways bargaining structures affect workers and firms.
+:::
+
+::: {.theme-card}
+### Bayesian Methods
+
+Applications of Bayesian statistics to applied microeconomics, meta-analysis, and evidence synthesis.
+:::
+:::
+:::
+
+::: {.content-section}
+## Academic Snapshot
+
+::: {.snapshot-grid}
+::: {.snapshot-card}
+### Affiliation
+
+PhD in Economics, Bocconi University
+:::
+
+::: {.snapshot-card}
+### Research Fields
+
+Development economics, labour economics, and applied microeconomics
+:::
+
+::: {.snapshot-card}
+### Methods
+
+Bayesian statistics, causal inference, and meta-analysis
+:::
+
+::: {.snapshot-card}
+### Previous Experience
+
+Global Poverty Research Lab, Northwestern University
+:::
+:::
+:::
+
+::: {.content-section}
+## Teaching Snapshot
+
+I contribute to core microeconomics teaching at Bocconi University and to methods-oriented training in causal inference.
+
+::: {.snapshot-grid .teaching-snapshot-grid}
+::: {.snapshot-card}
+### Teaching Assistant
+
+Microeconomics, undergraduate level, 2024 and 2025
+:::
+
+::: {.snapshot-card}
+### Doctoral Teaching
+
+Microeconomics III, PhD level
+:::
+
+::: {.snapshot-card}
+### Guest Lecture
+
+IGC Research Methodology Workshop, August 2025
+:::
+:::
+:::
+
+::: {.content-section .contact-section}
+## Contact
+
+I am always happy to hear from researchers, students, and potential collaborators.
+
+::: {.contact-links}
+[Email](mailto:tommaso.crosta@phd.unibocconi.it){.btn .btn-brand}
+[LinkedIn](https://www.linkedin.com/in/tommaso-crosta-31873817b/){.btn .btn-ghost}
+[X](https://x.com/TommasoCrosta){.btn .btn-ghost}
+:::
+:::
