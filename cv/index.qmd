@@ -3,11 +3,7 @@ title: "Curriculum Vitae"
 title-block: false
 ---
 
-# Curriculum Vitae
-
-::: {.page-intro}
-A current copy of my CV is available below. The PDF download is the best option for mobile browsers and for sharing a direct copy.
-:::
+# Curriculum Vitae {.visually-hidden}
 
 ::: {.cv-actions}
 [Download CV (PDF)](CV-Tommaso Crosta.pdf){.btn .btn-brand}

@@ -10,7 +10,7 @@ page-layout: full
 
 # Tommaso Crosta
 
-I am a third-year PhD student in Economics at Bocconi University. My research sits at the intersection of development and labour economics, with a focus on how institutions and social protection shape labour market outcomes.
+I am a third-year PhD student in Economics at Bocconi University. My research sits at the intersection of development and labour economics, with a focus on how institutions, structural change and social protection shape labour market outcomes.
 
 ::: {.hero-actions}
 [Research](Research/index.qmd){.btn .btn-brand}
@@ -48,6 +48,7 @@ A study of how the electoral accountability of workplace union representatives a
 A Bayesian meta-analysis of unconditional cash transfer programs that evaluates average impacts and tests key policy mechanisms across settings.
 
 ::: {.link-row}
+[Paper](https://www.nber.org/papers/w32779){.paper-link}
 [Press coverage](Research/index.qmd#talks-press){.paper-link}
 :::
 :::

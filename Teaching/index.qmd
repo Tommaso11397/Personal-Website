@@ -3,18 +3,12 @@ title: "Teaching"
 title-block: false
 ---
 
-# Teaching
-
-::: {.page-intro}
-I enjoy supporting rigorous training in microeconomics and contributing to methods-oriented instruction for students at different stages of study.
-:::
-
 ## Teaching Assistantship
 
 ::: {.timeline-stack}
 ::: {.paper-entry}
 ### Microeconomics
-<span class="paper-meta">Bocconi University | Undergraduate level | Teaching Assistant | 2024 and 2025</span>
+<span class="paper-meta">Bocconi University | Undergraduate level | Teaching Assistant | 2024, 2025, and 2026</span>
 
 Teaching support for core undergraduate microeconomics.
 :::

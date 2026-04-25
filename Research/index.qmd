@@ -3,13 +3,7 @@ title: "Research"
 title-block: false
 ---
 
-# Research
-
-::: {.page-intro}
-My research focuses on development and labour economics, with a particular interest in institutional design, social protection, and Bayesian evidence synthesis in applied microeconomics.
-:::
-
-## Research Agenda {#research-agenda}
+# Research Agenda {#research-agenda}
 
 I study how policies and institutions shape worker welfare, firm behavior, and the distribution of economic opportunity. Across projects, I combine applied microeconomic questions with quantitative methods that strengthen causal inference and improve evidence aggregation.
 
@@ -30,6 +24,7 @@ We study how electoral accountability for workplace union representatives affect
 Using Bayesian meta-analysis, this project aggregates evidence from 115 studies of 72 unconditional cash transfer programs and evaluates how impacts vary across policy-relevant mechanisms and contexts.
 
 ::: {.link-row}
+[Paper](https://www.nber.org/papers/w32779){.paper-link}
 [Ideas for India](https://ideasforindia.in/topics/poverty-inequality/what-broad-lessons-have-we-learned-from-115-studies-on-unconditional-cash-transfers.html){.paper-link}
 [VoxDev](https://voxdev.org/topic/social-protection/what-broad-lessons-have-we-learned-115-studies-unconditional-cash-transfers){.paper-link}
 :::

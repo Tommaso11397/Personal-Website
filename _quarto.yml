@@ -7,8 +7,6 @@ website:
     title: "Tommaso Crosta"
     pinned: true
     left:
-      - text: "Home"
-        href: index.qmd
       - text: "Research"
         href: Research/index.qmd
       - text: "Teaching"
