@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 title-block: false
 ---
 
-# Curriculum Vitae {.visually-hidden}
+# Curriculum Vitae {.cv-hidden-heading}
 
 ::: {.cv-actions}
 [Download CV (PDF)](CV-Tommaso Crosta.pdf){.btn .btn-brand}

@@ -27,10 +27,25 @@ I am a third-year PhD student in Economics at Bocconi University. My research si
 ::: {.content-section}
 ## Selected Work
 
-A snapshot of current research on workplace institutions, social protection, and evidence synthesis.
+A snapshot of current research on automation, workplace institutions, social protection, and evidence synthesis.
 
 ::: {.paper-grid}
-::: {.paper-entry .featured-paper}
+::: {.paper-entry .featured-paper .atlas-paper}
+<span class="paper-kicker">Latest paper</span>
+
+### Global Automation Atlas
+<span class="paper-meta">with Prashant Garg and Jasmin Baier | Working paper | May 2026</span>
+
+A global, task-level atlas of automation exposure across 124 countries that distinguishes labour-substituting from labour-augmenting automation and shows how exposure varies by country, occupation, industry, and AI involvement.
+
+::: {.link-row}
+[Atlas website](https://automationatlas.org/){.paper-link .paper-link-primary}
+[Paper](Research/Global-Automation-Atlas.pdf){.paper-link}
+[Research page](Research/index.qmd#latest-paper){.paper-link}
+:::
+:::
+
+::: {.paper-entry}
 ### Union Delegates Incentives and Firm-level Outcomes
 <span class="paper-meta">with Francesco Armillei | Working paper</span>
 

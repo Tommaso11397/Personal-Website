@@ -7,6 +7,24 @@ title-block: false
 
 I study how policies and institutions shape worker welfare, firm behavior, and the distribution of economic opportunity. Across projects, I combine applied microeconomic questions with quantitative methods that strengthen causal inference and improve evidence aggregation.
 
+## Latest Paper {#latest-paper}
+
+::: {.paper-stack}
+::: {.paper-entry .featured-paper .atlas-paper}
+<span class="paper-kicker">Latest paper</span>
+
+### Global Automation Atlas
+<span class="paper-meta">with Prashant Garg and Jasmin Baier | Working paper | May 2026</span>
+
+We develop a global, task-based and country-specific measure of automation exposure across 124 countries. The project separates labour-substituting from labour-augmenting automation, identifies the dominant technology channel and AI involvement, and provides country-, occupation-, industry-, and task-level exposure measures through the online atlas.
+
+::: {.link-row}
+[Atlas website](https://automationatlas.org/){.paper-link .paper-link-primary}
+[Paper](Global-Automation-Atlas.pdf){.paper-link}
+:::
+:::
+:::
+
 ## Working Papers {#working-papers}
 
 ::: {.paper-stack}
