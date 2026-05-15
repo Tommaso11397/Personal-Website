@@ -5,7 +5,7 @@ title-block: false
 
 # Research Agenda {#research-agenda}
 
-I study how policies and institutions shape worker welfare, firm behavior, and the distribution of economic opportunity. Across projects, I combine applied microeconomic questions with quantitative methods that strengthen causal inference and improve evidence aggregation.
+I study how labour market institutions shape workers' welfare, industrial relations, and the adoption of automation and new technologies. I focus mainly on low- and middle-income contexts, where structural transformation and growth trajectories reshape labour markets and the relations and conflicts within them.
 
 ## Latest Paper {#latest-paper}
 
